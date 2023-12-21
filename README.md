@@ -6,10 +6,4 @@ a.	Date/Time: The time at which the Uber picked up the customer. This attribute 
 b.	Lat: The latitude of the uber pick up.
 c.	Lon: The longitude of the uber pick up.
 d.	Base: The company code affiliated with the uber pick up.
-The dataset contains the data from Aril ’14 – Sep ’14 in the following files:
-a.	uber-raw-data-apr14.csv
-b.	uber-raw-data-aug14.csv
-c.	uber-raw-data-jul14.csv
-d.	uber-raw-data-jun14.csv
-e.	uber-raw-data-may14.csv
-f.	uber-raw-data-sep14.csv
+The dataset contains the data from Aril ’14 – Sep ’14.
